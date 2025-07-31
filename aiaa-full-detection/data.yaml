@@ -1,0 +1,5 @@
+path: datasets/SUAS2025
+train: /home/cm6of/Documents/AIAA-Code/umbcaiaa2025/datasets/SUAS2025/images/train
+val: /home/cm6of/Documents/AIAA-Code/umbcaiaa2025/datasets/SUAS2025/images/val
+nc: 15
+names: [ "person", "car", "motorcycle", "airplane", "bus", "boat", "stop sign", "snowboard", "umbrella", "sports ball", "baseball bat", "bed", "tennis racket", "suitcase", "skis" ]

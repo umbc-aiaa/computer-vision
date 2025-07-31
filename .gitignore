@@ -1,0 +1,14 @@
+# Ignore datasets, large files, cache, weights
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.pt
+*.npy
+__pycache__/
+runs/
+*.log
+*.txt
+datasets/
+

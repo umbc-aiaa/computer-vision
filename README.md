@@ -7,7 +7,7 @@
 ### .gitignore
 > - Very important for not pushing any big files onto GitHub that won't fit
 
-~~ ### build_suas_dataset.py ~~ 
+~~  build_suas_dataset.py ~~ 
 ~~ > - Counting/tracking class frequencies(objects) ~~
 
 ~~ ### data.yaml ~~

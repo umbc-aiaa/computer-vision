@@ -7,11 +7,11 @@
 ### .gitignore
 > - Very important for not pushing any big files onto GitHub that won't fit
 
-### build_suas_dataset.py
-> - Counting/tracking class frequencies(objects)
+~~ ### build_suas_dataset.py ~~ 
+~~ > - Counting/tracking class frequencies(objects) ~~
 
-### data.yaml
-> - Text file that contains the path to training images, and information on what specifically needs to be detected
+~~ ### data.yaml ~~
+~~ > - Text file that contains the path to training images, and information on what specifically needs to be detected~~ 
 
 ### detect_stream.py
 > - Flask webpage that allows you to see the camera output, and what the computer detects
@@ -20,6 +20,6 @@
 ### fc_mavlink.py
 > - Testing for flight controller, will soon be used to gather info on the aircraft
 
-###  train.py
+~~ ###  train.py ~~
 
-> - Runs training using YOLO
+~~ > - Runs training using YOLO ~~

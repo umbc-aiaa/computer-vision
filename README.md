@@ -1,25 +1,22 @@
-
 ## BASIC INFO
 
- #### In place until I write a README more in depth. 
-
+#### In place until I write a README more in depth. 
 
 ### .gitignore
 > - Very important for not pushing any big files onto GitHub that won't fit
 
-~~  build_suas_dataset.py ~~ 
-~~ > - Counting/tracking class frequencies(objects) ~~
+~~build_suas_dataset.py~~  
+> ~~Counting/tracking class frequencies(objects)~~
 
-~~ ### data.yaml ~~
-~~ > - Text file that contains the path to training images, and information on what specifically needs to be detected~~ 
+~~data.yaml~~  
+> ~~Text file that contains the path to training images, and information on what specifically needs to be detected~~
 
 ### detect_stream.py
-> - Flask webpage that allows you to see the camera output, and what the computer detects
+> - Flask webpage that allows you to see the camera output, and what the computer detects  
 > - Webpage allowing any device to connect via the ip address the program gives in it's console
 
 ### fc_mavlink.py
 > - Testing for flight controller, will soon be used to gather info on the aircraft
 
-~~ ###  train.py ~~
-
-~~ > - Runs training using YOLO ~~
+~~train.py~~  
+> ~~Runs training using YOLO~~
